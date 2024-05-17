@@ -1,0 +1,564 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Emma",
+      "last_name": "Johnson",
+      "email": "ej101@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/emmajohnson101/",
+      "role": "SDE"
+    },
+    {
+      "id": 2,
+      "first_name": "Liam",
+      "last_name": "Brown",
+      "email": "lb202@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/liambrown202/",
+      "role": "PM"
+    },
+    {
+      "id": 3,
+      "first_name": "Olivia",
+      "last_name": "Smith",
+      "email": "os303@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/oliviasmith303/",
+      "role": "Engineering"
+    },
+    {
+      "id": 4,
+      "first_name": "Nathaniel Nirmal",
+      "last_name": "Anthony Thiagarajan",
+      "email": "na453@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/nathanielat/",
+      "role": "SDE"
+    },
+    {
+      "id": 5,
+      "first_name": "Christy",
+      "last_name": "Wu",
+      "email": "mw897@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/christy--wu/",
+      "role": "PM"
+    },
+    {
+      "id": 6,
+      "first_name": "Ben",
+      "last_name": "Setel",
+      "email": "bs836@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/bensetel/",
+      "role": "Engineering"
+    },
+    {
+      "id": 7,
+      "first_name": "Aryan",
+      "last_name": "Patil",
+      "email": "ap2365@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/patilaryan/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 8,
+      "first_name": "Haomiao",
+      "last_name": "Li",
+      "email": "hl2386@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/haomiaoli2386/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 9,
+      "first_name": "Haran",
+      "last_name": "Rajkumar",
+      "email": "hr322@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/haranrk",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 10,
+      "first_name": "Mia",
+      "last_name": "Wilson",
+      "email": "mw1010@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/miawilson1010/",
+      "role": "SDE"
+    },
+    {
+      "id": 11,
+      "first_name": "Noah",
+      "last_name": "Martinez",
+      "email": "nm1111@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/noahmartinez1111/",
+      "role": "PM"
+    },
+    {
+      "id": 12,
+      "first_name": "Ava",
+      "last_name": "Anderson",
+      "email": "aa1212@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/avaanderson1212/",
+      "role": "Engineering"
+    },
+    {
+      "id": 13,
+      "first_name": "Elijah",
+      "last_name": "Thomas",
+      "email": "et1313@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/elijahthomas1313/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 14,
+      "first_name": "Sophia",
+      "last_name": "Taylor",
+      "email": "st1414@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/sophiataylor1414/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 15,
+      "first_name": "James",
+      "last_name": "Moore",
+      "email": "jm1515@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/jamesmoore1515/",
+      "role": "SDE"
+    },
+    {
+      "id": 16,
+      "first_name": "Isabella",
+      "last_name": "Jackson",
+      "email": "ij1616@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/isabellajackson1616/",
+      "role": "PM"
+    },
+    {
+      "id": 17,
+      "first_name": "Lucas",
+      "last_name": "White",
+      "email": "lw1717@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/lucaswhite1717/",
+      "role": "Engineering"
+    },
+    {
+      "id": 18,
+      "first_name": "Mason",
+      "last_name": "Harris",
+      "email": "mh1818@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/masonharris1818/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 19,
+      "first_name": "Evelyn",
+      "last_name": "Clark",
+      "email": "ec1919@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/evelynclark1919/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 20,
+      "first_name": "Ethan",
+      "last_name": "Lewis",
+      "email": "el2020@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/ethanlewis2020/",
+      "role": "SDE"
+    },
+    {
+      "id": 21,
+      "first_name": "Avery",
+      "last_name": "Young",
+      "email": "ay2121@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/averyyoung2121/",
+      "role": "PM"
+    },
+    {
+      "id": 22,
+      "first_name": "Logan",
+      "last_name": "Allen",
+      "email": "la2222@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/loganallen2222/",
+      "role": "Engineering"
+    },
+    {
+      "id": 23,
+      "first_name": "Harper",
+      "last_name": "King",
+      "email": "hk2323@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/harperking2323/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 24,
+      "first_name": "Alexander",
+      "last_name": "Wright",
+      "email": "aw2424@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/alexanderwright2424/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 25,
+      "first_name": "Charlotte",
+      "last_name": "Scott",
+      "email": "cs2525@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/charlottescott2525/",
+      "role": "SDE"
+    },
+    {
+      "id": 26,
+      "first_name": "Amelia",
+      "last_name": "Green",
+      "email": "ag2626@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/ameliagreen2626/",
+      "role": "PM"
+    },
+    {
+      "id": 27,
+      "first_name": "Henry",
+      "last_name": "Baker",
+      "email": "hb2727@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/henrybaker2727/",
+      "role": "Engineering"
+    },
+    {
+      "id": 28,
+      "first_name": "Eleanor",
+      "last_name": "Gonzalez",
+      "email": "eg2828@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/eleanorgonzalez2828/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 29,
+      "first_name": "Daniel",
+      "last_name": "Perez",
+      "email": "dp2929@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/danielperez2929/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 30,
+      "first_name": "Victoria",
+      "last_name": "Hall",
+      "email": "vh3030@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/victoriahall3030/",
+      "role": "SDE"
+    },
+    {
+      "id": 31,
+      "first_name": "Samuel",
+      "last_name": "Robinson",
+      "email": "sr3131@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/samuelrobinson3131/",
+      "role": "PM"
+    },
+    {
+      "id": 32,
+      "first_name": "Grace",
+      "last_name": "Martinez",
+      "email": "gm3232@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/gracemartinez3232/",
+      "role": "Engineering"
+    },
+    {
+      "id": 33,
+      "first_name": "Jack",
+      "last_name": "Rodriguez",
+      "email": "jr3333@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/jackrodriguez3333/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 34,
+      "first_name": "Sofia",
+      "last_name": "Lopez",
+      "email": "sl3434@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/sofialopez3434/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 35,
+      "first_name": "Michael",
+      "last_name": "Hill",
+      "email": "mh3535@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/michaelhill3535/",
+      "role": "SDE"
+    },
+    {
+      "id": 36,
+      "first_name": "Emily",
+      "last_name": "Scott",
+      "email": "es3636@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/emilyscott3636/",
+      "role": "PM"
+    },
+    {
+      "id": 37,
+      "first_name": "Jackson",
+      "last_name": "Adams",
+      "email": "ja3737@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/jacksonadams3737/",
+      "role": "Engineering"
+    },
+    {
+      "id": 38,
+      "first_name": "Avery",
+      "last_name": "Clark",
+      "email": "ac3838@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/averyclark3838/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 39,
+      "first_name": "Sebastian",
+      "last_name": "Lewis",
+      "email": "sl3939@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/sebastianlewis3939/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 40,
+      "first_name": "Chloe",
+      "last_name": "Harris",
+      "email": "ch4040@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/chloeharris4040/",
+      "role": "SDE"
+    },
+    {
+      "id": 41,
+      "first_name": "Matthew",
+      "last_name": "Young",
+      "email": "my4141@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/matthewyoung4141/",
+      "role": "PM"
+    },
+    {
+      "id": 42,
+      "first_name": "Lily",
+      "last_name": "King",
+      "email": "lk4242@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/lilyking4242/",
+      "role": "Engineering"
+    },
+    {
+      "id": 43,
+      "first_name": "David",
+      "last_name": "Walker",
+      "email": "dw4343@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/davidwalker4343/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 44,
+      "first_name": "Aria",
+      "last_name": "Wright",
+      "email": "aw4444@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/ariawright4444/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 45,
+      "first_name": "Joseph",
+      "last_name": "Green",
+      "email": "jg4545@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/josephgreen4545/",
+      "role": "SDE"
+    },
+    {
+      "id": 46,
+      "first_name": "Scarlett",
+      "last_name": "Hernandez",
+      "email": "sh4646@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/scarletthernandez4646/",
+      "role": "PM"
+    },
+    {
+      "id": 47,
+      "first_name": "Levi",
+      "last_name": "Robinson",
+      "email": "lr4747@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/levirobinson4747/",
+      "role": "Engineering"
+    },
+    {
+      "id": 48,
+      "first_name": "Madison",
+      "last_name": "Walker",
+      "email": "mw4848@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/madisonwalker4848/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 49,
+      "first_name": "Logan",
+      "last_name": "Perez",
+      "email": "lp4949@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/loganperez4949/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 50,
+      "first_name": "Zoey",
+      "last_name": "Hall",
+      "email": "zh5050@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/zoeyhall5050/",
+      "role": "SDE"
+    },
+    {
+      "id": 51,
+      "first_name": "Luke",
+      "last_name": "Allen",
+      "email": "la5151@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/lukeallen5151/",
+      "role": "PM"
+    },
+    {
+      "id": 52,
+      "first_name": "Aubrey",
+      "last_name": "King",
+      "email": "ak5252@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/aubreyking5252/",
+      "role": "Engineering"
+    },
+    {
+      "id": 53,
+      "first_name": "Nathan",
+      "last_name": "Wright",
+      "email": "nw5353@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/nathanwright5353/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 54,
+      "first_name": "Luna",
+      "last_name": "Hill",
+      "email": "lh5454@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/lunahill5454/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 55,
+      "first_name": "Hudson",
+      "last_name": "Robinson",
+      "email": "hr5555@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/hudsonrobinson5555/",
+      "role": "SDE"
+    },
+    {
+      "id": 56,
+      "first_name": "Addison",
+      "last_name": "Lewis",
+      "email": "al5656@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/addisonlewis5656/",
+      "role": "PM"
+    },
+    {
+      "id": 57,
+      "first_name": "Jayden",
+      "last_name": "Young",
+      "email": "jy5757@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/jaydenyoung5757/",
+      "role": "Engineering"
+    },
+    {
+      "id": 58,
+      "first_name": "Aaliyah",
+      "last_name": "Harris",
+      "email": "ah5858@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/aaliyahharris5858/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 59,
+      "first_name": "Lincoln",
+      "last_name": "Clark",
+      "email": "lc5959@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/lincolnclark5959/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 60,
+      "first_name": "Paisley",
+      "last_name": "King",
+      "email": "pk6060@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/paisleyking6060/",
+      "role": "SDE"
+    },
+    {
+      "id": 61,
+      "first_name": "Ryan",
+      "last_name": "Wright",
+      "email": "rw6161@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/ryanwright6161/",
+      "role": "PM"
+    },
+    {
+      "id": 62,
+      "first_name": "Hazel",
+      "last_name": "Allen",
+      "email": "ha6262@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/hazelallen6262/",
+      "role": "Engineering"
+    },
+    {
+      "id": 63,
+      "first_name": "Caleb",
+      "last_name": "Walker",
+      "email": "cw6363@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/calebwalker6363/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 64,
+      "first_name": "Savannah",
+      "last_name": "Hill",
+      "email": "sh6464@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/savannahhill6464/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 65,
+      "first_name": "Anthony",
+      "last_name": "Robinson",
+      "email": "ar6565@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/anthonyrobinson6565/",
+      "role": "SDE"
+    },
+    {
+      "id": 66,
+      "first_name": "Camila",
+      "last_name": "Lewis",
+      "email": "cl6666@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/camilalewis6666/",
+      "role": "PM"
+    },
+    {
+      "id": 67,
+      "first_name": "Connor",
+      "last_name": "Young",
+      "email": "cy6767@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/connoryoung6767/",
+      "role": "Engineering"
+    },
+    {
+      "id": 68,
+      "first_name": "Aurora",
+      "last_name": "Harris",
+      "email": "ah6868@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/auroraharris6868/",
+      "role": "Data Science, AI/ML intern"
+    },
+    {
+      "id": 69,
+      "first_name": "Nolan",
+      "last_name": "Clark",
+      "email": "nc6969@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/nolanclark6969/",
+      "role": "ML, Engineering"
+    },
+    {
+      "id": 70,
+      "first_name": "Victoria",
+      "last_name": "King",
+      "email": "vk7070@cornell.edu",
+      "linkedin": "https://www.linkedin.com/in/victoriaking7070/",
+      "role": "SDE"
+    }
+  ]
+}
